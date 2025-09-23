@@ -1,0 +1,61 @@
+- Breakfast
+- Brunch
+- Lunch
+- Beverages
+- Appetizers
+- Soup/Stews
+- Salads
+    - Vegetable
+    - Dessert
+- Main dishes
+    - Beef
+    - Poultry
+    - Pork
+    - Seafood
+    - Vegetarian
+- Side Dishes
+    - Vegetables
+    - Grain
+    - Other
+- Condiments
+- Sauces
+- Seasoning
+- Desserts
+    - Cookies
+    - Bars
+    - Cakes/Frosting
+    - Pies
+    - Candy
+    - Sauces
+- Bread
+    - Quick
+    - Yeast
+## Specialty
+- Allergy-Friendly
+    - Vegan
+    - Gluten-Free
+    - Dairy-Free
+    - Grain-Free
+    - Egg-Free
+- Activities
+    - Camping
+    - Holiday
+    - Tail Gate
+    - Family Reunion 2023
+    - Cooking with Children
+- Specialty Cooking
+    - Canning / Preserving
+    - Grilling
+    - Sous Vide
+    - Instant Pot
+    - Slow Cooker
+- People / Legacy
+    - Grandma’s/Grandpa’s Favorites
+    - Grandma’s/Grandpa’s Specialities
+- Non-Edible
+    - Pet Food/Treats
+    - Cleaning
+    - Garden
+    - Body Care
+- Medicinal
+    - What it treats.

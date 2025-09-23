@@ -1,4 +1,10 @@
----
-title: My GitHub Pages Notebook!
----
-Initial test
+## Cook'n
+```dataview
+LIST
+FROM "Cooking"
+```
+## Medicinal
+```dataview
+LIST
+FROM "Medicinal"
+```
