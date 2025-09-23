@@ -15,10 +15,12 @@ Quantity: ???
 
 #ingredients 
 - [ ] hawthorn (leaf or flower)
-Circulation
+
+**Circulation**
 - [ ] hibiscus
 - [ ] cinnamon (alternative not addition)
-Anxiety
+
+**Anxiety**
 - [ ] lemon balm
 - [ ] tulsi
 ---

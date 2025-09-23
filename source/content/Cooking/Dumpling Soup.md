@@ -10,10 +10,7 @@ tags:
 rating: "10"
 cooked: true
 ---
-> [!info] Comments
-> Recipe has received the best praise I've gotten, and is the only meal where I've been asked for my recipe. 
-
-Quantity: A pots worth
+Quantity: A large stockpot worth
 
 #ingredients 
 - [ ] 1 large sweet onion
