@@ -10,12 +10,7 @@ tags:
 rating: "8"
 cooked: true
 ---
-> [!info] Details
-> 
-
-Quantity: 
-
-#ingredients 
+## Ingredients 
 - [ ] 2 lbs - ground beef
 - [ ] 1 chopped onion
 - [ ] 1 chopped green pepper

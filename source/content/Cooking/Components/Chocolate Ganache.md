@@ -12,7 +12,7 @@ cooked: false
 
 Quantity: 
 
-#ingredients 
+## Ingredients 
 - [ ] 1 cup - heavy cream
 - [ ] 8 oz - semisweet chocolate, chopped
 ---

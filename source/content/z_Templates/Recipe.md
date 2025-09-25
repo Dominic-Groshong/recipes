@@ -10,7 +10,7 @@ cooked: false
 
 Quantity: 
 
-#ingredients 
+## Ingredients 
 - [ ] 
 ---
 ## Directions

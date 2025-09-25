@@ -15,8 +15,7 @@ cooked: false
 >Gumweed irritates the kidneys in large doses and should only be taken in small doses for short periods of time.
 
 Quantity: 4 oz
-
-#ingredients 
+## Ingredients 
 - [ ] 1 cup - fresh gumweed buds
 - [ ] 4-6 fluid oz - 75% alcohol (3 parts 190 proof and 1 part water)
 ---

@@ -5,6 +5,7 @@ tags:
   - medicinal
   - medicinal/uti
   - medicinal/diuretic
+  - beverage
 rating:
 cooked: false
 ---
@@ -13,7 +14,7 @@ cooked: false
 
 Quantity: 1.1 ounces of loose-herb tea
 
-#ingredients 
+## Ingredients 
 - [ ] 0.5 oz - dried marshmallow root
 - [ ] 0.2 oz - dried horsetail shoots
 - [ ] 0.2 oz - dried agrimony leaf

@@ -12,8 +12,8 @@ tags:
 
 Quantity: Makes eight 0.5 oz tins.
 
-#ingredients 
-- [ ] 3.5 fluid oz - [[Cottonwood Bud Infused Oil|cottonwood bud infused oil]]
+## Ingredients  
+- [ ] 3 ½ fluid oz - [[Cottonwood Bud Infused Oil|cottonwood bud infused oil]]
 - [ ] 0.8 oz - pine resin
 - [ ] 0.5 oz - beeswax pastilles
 ---

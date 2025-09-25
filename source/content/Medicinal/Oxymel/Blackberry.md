@@ -14,10 +14,11 @@ tags:
 
 Quantity: 1 cup 
 
-#ingredients 
-- [ ] 1/2 cup - honey
-- [ ] 1/2 cup - apple cider vinegar
-- [ ] 1 1/2 cups - blackberries, fresh or frozen
+## Ingredients 
+- [ ] ½ cup - honey
+- [ ] ½ cup - apple cider vinegar
+- [ ] 1 ½ cups - blackberries, fresh or frozen
+
 OPTIONAL
 - [ ] Soda water
 - [ ] Ice

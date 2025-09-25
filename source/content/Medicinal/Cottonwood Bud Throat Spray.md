@@ -13,12 +13,12 @@ tags:
 
 Quantity: 2 oz
 
-#ingredients 
+## Ingredients 
 - [ ] 1 Tbs. [[_Tincture chart|black cottonwood bud tincture]]
 - [ ] 1 Tbs. [[_Tincture chart|echinacea root tincture]]
 - [ ] 1 Tbs. sage leaf tincture
-- [ ] 1 1/2 Tsp. licorice root tincture
-- [ ] 1 1/2 Tsp. honey
+- [ ] 1 ½ Tsp. licorice root tincture
+- [ ] 1 ½ Tsp. honey
 
 ---
 ## Info

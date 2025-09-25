@@ -22,9 +22,9 @@ tags:
 
 Quantity: 8-10 oz
 
-#ingredients 
+## Ingredients 
 - [ ] 2 oz - dried bleeding heart (whole plant), cut into small pieces
-- [ ] 1.5 fluid oz - 190 proof alcohol (95%), such as everclear
+- [ ] 1 ½ fluid oz - 190 proof alcohol (95%), such as everclear
 - [ ] 10 fluid oz - organic extra-virgin olive oil
 ---
 ## Directions

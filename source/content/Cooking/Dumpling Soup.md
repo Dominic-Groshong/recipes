@@ -12,7 +12,7 @@ cooked: true
 ---
 Quantity: A large stockpot worth
 
-#ingredients 
+## Ingredients 
 - [ ] 1 large sweet onion
 - [ ] 4 large carrots
 - [ ] 6 med-large yellow potato's

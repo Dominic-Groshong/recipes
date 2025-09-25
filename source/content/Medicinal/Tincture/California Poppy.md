@@ -15,8 +15,7 @@ tags:
 > Do not take with pharmaceutical sedative medications. The combined effect can inhibit breathing.
 
 Quantity: 10 oz
-
-#ingredients 
+## Ingredients  
 - [ ] 2.5 oz - fresh poppy (whole plant in flower)
 - [ ] 7.5 fluid oz - 190 proof alcohol (95%), such as everclear
 ---

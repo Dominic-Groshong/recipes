@@ -10,14 +10,13 @@ tags:
 > 
 
 Quantity: about 1 cup
-
-#ingredients 
-- [ ] 1/2 cup - toasted sunflower seeds
+## Ingredients 
+- [ ] ½ cup - toasted sunflower seeds
 - [ ] 4 cups - tightly packed fresh chickweed
-- [ ] 1/4 cup - fresh lemon juice (1 large lemon)
+- [ ] ¼ cup - fresh lemon juice (1 large lemon)
 - [ ] 1 clove garlic [^1]
-- [ ] 1/4 Tsp. - sea salt
-- [ ] 1/3 cup - extra-virgin olive oil
+- [ ] ¼ Tsp. - sea salt
+- [ ] ⅓ cup - extra-virgin olive oil
 ---
 ## Directions
 Put the seeds into a food processer, and grind into a meal. Add the chickweed, lemon, garlic, and salt and process into a paste (about 1 minute). Add the oil and pulse to combine. 

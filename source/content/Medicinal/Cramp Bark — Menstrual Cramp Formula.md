@@ -16,7 +16,7 @@ tags:
 
 Quantity: 3 oz
 
-#ingredients 
+## Ingredients 
 - [ ] 1 fluid oz - [[_Tincture chart|cramp bark]] tincture
 - [ ] 1 fluid oz - motherwort tincture
 - [ ] 1 fluid oz - [[Dried Willow Bark|willow bark tincture]] 

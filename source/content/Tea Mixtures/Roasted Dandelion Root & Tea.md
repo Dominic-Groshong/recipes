@@ -10,8 +10,7 @@ tags:
 > Use up to 3 Tsp. of roasted roots per cup of water, simmer for 10 mins and strain. Drink. 
 
 Quantity: 1-2 cups roasted roots
-
-#ingredients 
+## Ingredients 
 - [ ] 6 cups - fresh dandelion roots (washed)
 OPTIONAL (for tea)
 - [ ] 1-3 Tsp. of dried root per cup

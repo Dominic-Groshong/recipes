@@ -14,7 +14,7 @@ tags:
 
 Quantity: 8 oz
 
-#ingredients 
+## Ingredients 
 - [ ] 1 cup - fresh cottonwood buds
 - [ ] 1 cup - organic extra-virgin olive oil (more as needed)
 ---

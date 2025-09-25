@@ -12,7 +12,7 @@ cooked: false
 
 Quantity: 2-4 applications (~1 quart)
 
-#ingredients 
+## Ingredients 
 - [ ] 1 cup - dried nettle leaf (broken up)
 - [ ] 1 cup - dried horsetail shoots (broken up)
 - [ ] Boiling water

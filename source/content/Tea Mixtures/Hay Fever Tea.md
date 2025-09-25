@@ -16,7 +16,7 @@ cooked: false
 
 Quantity: 
 
-#ingredients 
+## Ingredients 
 - [ ] 0.5 oz - dried goldenrod flower
 - [ ] 0.5 oz - dried elderflower
 - [ ] 0.5 oz - dried nettle leaf

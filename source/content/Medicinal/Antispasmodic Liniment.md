@@ -16,7 +16,7 @@ tags:
 
 Quantity: 3 oz
 
-#ingredients 
+## Ingredients 
 - [ ] 1 fluid oz - [[_Tincture chart|cramp bark tincture]]
 - [ ] 1 fluid oz - [[_Tincture chart|st. john's wort tincture]]
 - [ ] 1 fluid oz - lobelia tincture

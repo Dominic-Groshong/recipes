@@ -6,7 +6,7 @@ tags:
   - pickled
   - condiment
 ---
-#ingredients
+## Ingredients 
 - [ ] 1 red onion
 - [ ] 3 limes 
 - [ ] 1 Tbs. salt

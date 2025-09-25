@@ -13,8 +13,7 @@ cooked: false
 > Spray on bruised area several times a day, rubbing vigorously with your hand.
 
 Quantity: 1 oz
-
-#ingredients 
+## Ingredients 
 - [ ] 1 tbsp. - [[_Tincture chart|goldenrod leaf or flower tincture]]
 - [ ] 1 tbsp. - [[_Tincture chart|st. john's wort flower tincture]]
 ---

@@ -15,7 +15,7 @@ tags:
 
 Quantity: 10 oz
 
-#ingredients 
+## Ingredients 
 - [ ] 4 Tsp. - [[California Poppy|california poppy tincture]]
 - [ ] 4 Tsp. - [[_Tincture chart|lemon balm tincture]]
 - [ ] 4 Tsp. - [[_Tincture chart|valerian root tincture]]

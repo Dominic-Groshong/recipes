@@ -13,7 +13,7 @@ cooked: false
 
 Quantity: ???
 
-#ingredients 
+## Ingredients 
 - [ ] hawthorn (leaf or flower)
 
 **Circulation**

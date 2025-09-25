@@ -14,7 +14,7 @@ tags:
 
 Quantity: 5 oz 
 
-#ingredients 
+## Ingredients 
 - [ ] 2.5 oz - fresh blackberry root, cleaned
 - [ ] 4.5 fluid oz - 100 proof alcohol (50%), such as vodka
 - [ ] 0.5 fluid oz - vegetable glycerin

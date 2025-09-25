@@ -17,10 +17,10 @@ cooked: false
 
 Quantity: 
 
-#ingredients 
+## Ingredients 
 - [ ] 1 cup - fresh fir tips
-- [ ] 1/2 cup - sugar
-- [ ] 1/2 cup - vodka or brandy
+- [ ] ½ cup - sugar
+- [ ] ½ cup - vodka or brandy
 ---
 ## Directions
 Chop the fir tips and pack loosely into a 16 oz jar. Add sugar and alcohol to the jar, put on lid and shake vigorously until the sugar is dissolved.

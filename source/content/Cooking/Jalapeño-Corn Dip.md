@@ -14,7 +14,7 @@ cooked: false
 
 Quantity: 8 servings
 
-#ingredients 
+## Ingredients 
 - [ ] 4 oz - bacon, diced
 - [ ] 1 tbsp - olive oil
 - [ ] 4 cups - sweet corn (frozen or fresh)
@@ -25,10 +25,10 @@ Quantity: 8 servings
 - [ ] 1 (4 oz) can - green chiles
 - [ ] Salt to taste
 - [ ] 8 oz - cream cheese, in pieces
-- [ ] 1/4 cup - mayo
-- [ ] 1/4 cup - sour cream
+- [ ] ¼ cup - mayo
+- [ ] ¼ cup - sour cream
 - [ ] 1 lime, halved and juiced
-- [ ] 1 1/2 cups - shredded monterey jack, or pepper jack cheese
+- [ ] 1 ½ cups - shredded monterey jack, or pepper jack cheese
 - [ ] tortilla or corn chips, to serve
 ---
 ## Directions

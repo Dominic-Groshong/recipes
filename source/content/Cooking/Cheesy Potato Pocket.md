@@ -14,7 +14,7 @@ cooked: false
 
 Quantity: 2
 
-#ingredients 
+## Ingredients 
 - [ ] 600 g - potatoes
 - [ ] 2 tbsp - butter
 - [ ] 5 tbsp - flour

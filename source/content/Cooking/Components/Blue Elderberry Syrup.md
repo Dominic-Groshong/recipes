@@ -15,12 +15,12 @@ cooked: false
 
 Quantity: 
 
-#ingredients 
+## Ingredients 
 - [ ] 3 cups - water
 - [ ] 1 cup - fresh blue elderberries or 1/2 cup dried.
-- [ ] 1/2 inch - fresh ginger, thinly sliced
+- [ ] ½ inch - fresh ginger, thinly sliced
 - [ ] 1 cinnamon stick
-- [ ] 1-1 1/2  cups - sugar
+- [ ] 1-1 ½  cups - sugar
 - [ ] 1 tbsp. - brandy or vodka (optional)
 ---
 ## Directions

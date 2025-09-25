@@ -4,6 +4,7 @@ source: medicinal plants of the pacific northwest
 tags:
   - medicinal/cough
   - medicinal/antispasmodic
+  - beverage
 rating:
 cooked: false
 ---
@@ -12,7 +13,7 @@ cooked: false
 
 Quantity:  1.5 oz of loose herb
 
-#ingredients 
+## Ingredients 
 - [ ] 0.5 oz - dried wild cherry bark
 - [ ] 0.4 oz - dried marshmallow root
 - [ ] 0.4 oz - dried thyme

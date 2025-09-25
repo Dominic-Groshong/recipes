@@ -14,7 +14,7 @@ cooked: false
 
 Quantity: 
 
-#ingredients 
+## Ingredients 
 - [ ] 2 cups - fresh blue or red elderflowers
 - [ ] 1 small lemon, sliced
 - [ ] 1 cup - granulated sugar

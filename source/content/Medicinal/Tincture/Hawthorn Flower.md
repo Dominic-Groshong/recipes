@@ -13,7 +13,7 @@ cooked: false
 
 Quantity: 8 oz
 
-#ingredients 
+## Ingredients 
 - [ ] 2 cups - fresh hawthorn flowers
 - [ ] 1 cup - 100 proof vodka (more as needed)
 ---

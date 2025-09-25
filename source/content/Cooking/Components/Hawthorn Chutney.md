@@ -14,18 +14,17 @@ cooked: false
 > 
 
 Quantity: 4 cups
-
-#ingredients 
-- [ ] 4 1/2 pounds - hawthorn berries
+## Ingredients 
+- [ ] 4 ½ pounds - hawthorn berries
 - [ ] 1 quart - apple cider vinegar
 - [ ] 2 tbsp. - sea salt
 - [ ] Sprigs of fresh thyme
 - [ ] 3 cups - organic light-brown sugar
 - [ ] 2 tbsp. - ground ginger
 - [ ] 1 tbsp. - ground nutmeg
-- [ ] 1/2 tbsp. - ground cloves
-- [ ] 1/2 tbsp. - ground allspice
-- [ ] 1/2 tsp. - ground black pepper
+- [ ] ½ tbsp. - ground cloves
+- [ ] ½ tbsp. - ground allspice
+- [ ] ½ tsp. - ground black pepper
 ---
 ## Directions
 Add berries to 6 quart pot, add vinegar and salt, bring to a boil. Once boiling, turn down the heat to a simmer, cover the pot and cook the berries until soft (about 45 minutes). 

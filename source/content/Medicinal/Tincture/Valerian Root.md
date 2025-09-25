@@ -8,7 +8,7 @@ tags:
 
 Quantity: 
 
-#ingredients 
+## Ingredients 
 - [ ] 
 ---
 ## Directions
