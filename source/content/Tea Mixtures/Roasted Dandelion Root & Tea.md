@@ -3,7 +3,6 @@ aliases:
 source: medicinal plants of the pacific northwest
 tags:
   - caffeine
-  - tea
   - beverage
 ---
 > [!info] Dosage

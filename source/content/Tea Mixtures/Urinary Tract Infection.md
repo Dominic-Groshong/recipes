@@ -4,6 +4,7 @@ source: medicinal plants of the pacific northwest
 tags:
   - medicinal
   - medicinal/uti
+  - beverage
 rating:
 cooked: false
 ---

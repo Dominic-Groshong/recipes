@@ -7,7 +7,6 @@ tags:
   - medicinal/sinus
   - beverage
   - medicinal/diuretic
-  - tea
 rating:
 cooked: false
 ---

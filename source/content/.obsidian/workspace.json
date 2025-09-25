@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tea Mixtures/Urinary Tract Infection.md",
+                "file": "Medicinal/Tincture/Yellow Dock Root.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Urinary Tract Infection"
+              "title": "Yellow Dock Root"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ingredients",
+                "query": "tag:tincture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,33 +173,33 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Medicinal/Tincture/Usnea Double Extract.md",
+    "Medicinal/Tincture/Blackberry Root.md",
+    "Medicinal/Tincture/Yellow Dock Root.md",
+    "Medicinal/Tincture/Valerian Root.md",
+    "Tea Mixtures/Cold and Flu.md",
+    "Medicinal/Willow Bark Infused Witch Hazel.md",
+    "Medicinal/Tincture/Dried Willow Bark.md",
+    "Medicinal/Wild Carrot Hydrosol.md",
+    "Tea Mixtures/Roasted Dandelion Root & Tea.md",
+    "Tea Mixtures/Hay Fever Tea.md",
+    "Tea Mixtures/Hawthorn Tea.md",
+    "Tea Mixtures/Bladder-strengthening Tea.md",
+    "Tea Mixtures/Wildfire Season.md",
     "Tea Mixtures/Urinary Tract Infection.md",
+    "Tea Mixtures/Stomach-Soothing.md",
+    "Tea Mixtures/Soothing Cough.md",
+    "Tea Mixtures/Lymphatic Clearing.md",
+    "Medicinal/Tincture/Usnea Double Extract.md",
     "Index — Categories.md",
     "index.md",
     "Untitled 1.base",
     "z_Templates/Recipe.md",
-    "Medicinal/Tincture/Valerian Root.md",
     "Medicinal/St. John's Wort Oil.md",
     "Medicinal/Tincture/Red Root Bark.md",
     "Medicinal/Pine Resin Salve.md",
     "Medicinal/Plantain and Calendula First Aid Salve.md",
     "Medicinal/Poplar and Pine First Aid Salve.md",
-    "Tea Mixtures/Roasted Dandelion Root & Tea.md",
     "Medicinal/Sleep blend.md",
-    "Tea Mixtures/Soothing Cough.md",
-    "Medicinal/Oxymel/Spruce Tip.md",
-    "Tea Mixtures/Stomach-Soothing.md",
-    "Medicinal/Strengthening Hair Rinse.md",
-    "Tea Mixtures/Wildfire Season.md",
-    "Cooking/Zucchini Crazy Cake.md",
-    "Cooking/Components/Pickled Red Onions.md",
-    "Cooking/Oven Baked Spanish Rice.md",
-    "Cooking/Components/Oregon Grape Jelly.md",
-    "Medicinal/Tincture/Lemon Balm.md",
-    "Medicinal/Tincture/Oregon Grape Bark.md",
-    "Tea Mixtures/Hay Fever Tea.md",
-    "Cooking/Jalapeño-Corn Dip.md",
     "Untitled.base",
     "category-folder"
   ]

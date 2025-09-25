@@ -4,7 +4,6 @@ source: medicinal plants of the pacific northwest
 tags:
   - medicinal
   - medicinal/diarrhea
-  - tincture
 ---
 > [!info] Dosage
 > Take small doses of about 10 drops as needed.

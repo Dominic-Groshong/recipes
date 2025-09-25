@@ -5,6 +5,7 @@ tags:
   - medicinal
   - medicinal/circulation
   - medicinal/anxiety
+  - beverage
 rating:
 cooked: false
 ---
